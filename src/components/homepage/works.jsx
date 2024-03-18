@@ -15,28 +15,30 @@ const Works = () => {
 					<div className="works-body">
 						<div className="work">
 							<img
-								src="./facebook.png"
+								src="https://www.techlead.vn/wp-content/uploads/2023/03/logo-TechLead_Outsuorcing.png"
 								alt="facebook"
 								className="work-image"
 							/>
-							<div className="work-title">Facebook</div>
-							<div className="work-subtitle">
-								Software Engineer
+							<div className="work-title">
+								Công ty cổ phần Tech Lead
 							</div>
-							<div className="work-duration">2019 - Present</div>
+							<div className="work-subtitle">
+								Fullstack Developer
+							</div>
+							<div className="work-duration">2022 - 2023</div>
 						</div>
 
 						<div className="work">
 							<img
-								src="./twitter.png"
+								src="https://daco.vn/images/logo.png"
 								alt="twitter"
 								className="work-image"
 							/>
-							<div className="work-title">Twitter</div>
+							<div className="work-title">Công ty TNHH DACO</div>
 							<div className="work-subtitle">
-								Software Engineer
+								Frontend Developer
 							</div>
-							<div className="work-duration">2019 - Present</div>
+							<div className="work-duration">2023 - Present</div>
 						</div>
 					</div>
 				}
